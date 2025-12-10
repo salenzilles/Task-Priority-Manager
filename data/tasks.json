@@ -1,0 +1,40 @@
+[
+  {
+    "id": "83649c39-ee96-4f88-97f3-347265bc2d0d",
+    "title": "Corrigir bug no login",
+    "description": "",
+    "dueDate": "2025-12-23",
+    "effort": 3,
+    "category": "bug",
+    "dependencies": [],
+    "status": "pending",
+    "createdAt": "2025-12-10T00:14:02.932Z",
+    "priorityScore": 18
+  },
+  {
+    "id": "eff9a749-81f7-4b11-bfca-a09a466110d4",
+    "title": "Add dark mode to the user interface",
+    "description": "Implement toggle button for switching between light and dark themes.",
+    "dueDate": "2025-02-20",
+    "effort": 6,
+    "category": "feature",
+    "dependencies": [
+      "83649c39-ee96-4f88-97f3-347265bc2d0d"
+    ],
+    "status": "pending",
+    "createdAt": "2025-12-10T01:36:26.342Z",
+    "priorityScore": 18
+  },
+  {
+    "id": "ea4b3aae-0a74-43d6-9128-aead935b8ea0",
+    "title": "Research best database solution for scaling",
+    "description": "Evaluate PostgreSQL, MongoDB, and MySQL for future migration.",
+    "dueDate": "2025-02-10",
+    "effort": 4,
+    "category": "research",
+    "dependencies": [],
+    "status": "pending",
+    "createdAt": "2025-12-10T01:40:12.625Z",
+    "priorityScore": 15
+  }
+]

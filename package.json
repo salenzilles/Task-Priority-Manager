@@ -1,0 +1,22 @@
+{
+    "name": "task-priority-manager",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "better-sqlite3": "^11.10.0",
+        "dayjs": "^1.11.9",
+        "express": "^4.22.1",
+        "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "keywords": [],
+    "author": "Saulo Lenzi Salles",
+    "license": "ISC",
+    "description": ""
+}
