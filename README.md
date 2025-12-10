@@ -1,4 +1,4 @@
-Task Priority Manager
+Task Priority Manager  //Nova funcionalidade em desenvolvimento - Branch: Feature
 
 Backend application built with Node.js as part of a technical assessment. It provides task management (create, list, delete, complete) and 
 automatic priority scoring based on urgency, effort, category, and task dependencies. Data is persisted locally using a JSON file.
